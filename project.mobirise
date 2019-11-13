@@ -1,0 +1,83 @@
+{
+  "settings": {
+    "name": "Slimey",
+    "currentPage": "index.html",
+    "theme": {
+      "name": "default",
+      "title": "Mobirise",
+      "styling": {}
+    },
+    "path": "@PROJECT_PATH@",
+    "versionFirst": "4.11.5",
+    "siteFonts": [],
+    "uniqCompNum": 1,
+    "versionPublish": "4.11.5",
+    "screenshot": "screenshot.png"
+  },
+  "pages": {
+    "index.html": {
+      "settings": {
+        "main": true,
+        "title": "Home",
+        "meta_descr": "",
+        "header_custom": "",
+        "footer_custom": "",
+        "html_before": ""
+      },
+      "components": [
+        {
+          "_afterNavbarItem": ".mbr-section > .mbr-box__magnet",
+          "_params": {
+            "autoplay": true,
+            "fullScreen": true,
+            "paddingTop": 3,
+            "paddingBottom": 3,
+            "showBullets": true,
+            "bgColor": "#ffffff",
+            "slides": [
+              {
+                "image": "images/slide1.jpg",
+                "active": true,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slimey Bot",
+                "contentAlign": "right",
+                "text": "The public discord bot for your server!",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\" data-toolbar=\"-mbrBtnMove\">Invite to your server</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide2.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 2",
+                "contentAlign": "left",
+                "text": "Mobirise is based on Bootstrap 3 - most powerful mobile first framework. Use any bootstrap themes with no extra work.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              },
+              {
+                "image": "images/slide3.jpg",
+                "active": false,
+                "showButtons": true,
+                "showText": true,
+                "showTitle": true,
+                "title": "Slide 3",
+                "contentAlign": "center",
+                "text": "Choose from the large selection of latest pre-made blocks - jumbotrons, hero images, parallax scrolling, video backgrounds, hamburger menu, sticky header and more.",
+                "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
+              }
+            ]
+          },
+          "articleLayout": false,
+          "_tags": [
+            "Theme"
+          ],
+          "_name": "slider",
+          "_anchor": "slider-0"
+        }
+      ]
+    }
+  }
+}
