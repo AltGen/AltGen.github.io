@@ -11,7 +11,8 @@
     "versionFirst": "4.11.5",
     "siteFonts": [],
     "uniqCompNum": 3,
-    "versionPublish": "4.11.5"
+    "versionPublish": "4.11.5",
+    "screenshot": "screenshot.png"
   },
   "pages": {
     "index.html": {
@@ -119,9 +120,9 @@
                 "showButtons": true,
                 "showText": true,
                 "showTitle": true,
-                "title": "Slide 1",
+                "title": "",
                 "contentAlign": "right",
-                "text": "Develop fully responsive, mobile-optimized websites that look amazing on any devices and browsers. Preview how your website will appear on phones, tablets and desktops directly in the visual editor.",
+                "text": "",
                 "buttons": "<a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-danger\" href=\"https://mobirise.com\">FOR WINDOWS</a> <a data-app-btn=\"true\" class=\"mbr-buttons__btn btn btn-lg btn-default\" href=\"https://mobirise.com\">FOR MAC</a>"
               },
               {
